@@ -1,2 +1,2 @@
-# facebook_api_scripts
+# facebook-api-scripts
 Facebook API Scripts
